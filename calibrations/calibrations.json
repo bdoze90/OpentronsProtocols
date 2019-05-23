@@ -1,0 +1,25 @@
+{
+    "data": {
+        "b:p1000": {
+            "calibration_data": {},
+            "max_volume": 1000,
+            "positions": {
+                "bottom": null,
+                "drop_tip": null,
+                "blow_out": null,
+                "top": null
+            }
+        },
+        "a:p50multi": {
+            "calibration_data": {},
+            "max_volume": 50,
+            "positions": {
+                "drop_tip": null,
+                "bottom": null,
+                "blow_out": null,
+                "top": null
+            }
+        }
+    },
+    "version": 1
+}
